@@ -1,0 +1,27 @@
+
+---
+
+### 📄 `.gitignore`
+```gitignore
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Java / Maven
+target/
+*.class
+
+# Environment & Logs
+.env
+*.log
+
+# IDE & System
+.idea/
+.vscode/
+.DS_Store
